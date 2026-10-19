@@ -17,4 +17,4 @@
 
 ## Sample Output
 Passenger: name
-Total Fare: total_fare
+Total Fare: total fare
