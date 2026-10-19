@@ -2,7 +2,7 @@
 
 ## This program uses the distance, fare rate, and the number of passengers to calculate the total travel fare rate.
 
-## Version 1 – Original code without input validation
+## Version 2 – Updated code with input validation
 
 ## Input Needed
 - name
